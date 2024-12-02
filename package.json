@@ -1,0 +1,23 @@
+{
+  "name": "hashpasswords",
+  "version": "1.0.0",
+  "description": "Hashpassword function",
+  "main": "hashpassword.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajkori81/hashpasswordss.git"
+  },
+  "author": "Pankaj Kori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pankajkori81/hashpasswordss/issues"
+  },
+  "homepage": "https://github.com/pankajkori81/hashpasswordss#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
